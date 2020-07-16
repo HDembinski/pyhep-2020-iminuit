@@ -1,4 +1,5 @@
 numpy
 matplotlib
 scipy
+iminuit
 git+https://github.com/dsaxton/resample.git
